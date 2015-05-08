@@ -31,13 +31,13 @@
 Получить json данные из задания 2 и вывести через компоненту ExtJStree.
 
 ###Отчет
-1. *Первое задание выполнил ровно за 2 часа.* Код [здесь!](https://github.com/Husband/Modera-Test-Job/blob/master/DemoBundle/Utils/RawToJSONTree.php).
+1. *Первое задание выполнил ровно за 2 часа.* [DemoBundle/Utils/RawToJSONTree.php](https://github.com/Husband/Modera-Test-Job/blob/master/DemoBundle/Utils/RawToJSONTree.php).
 
 2. Во втором задании больше всего времени ушло на то чтобы решить где хранить data.txt и как его читать.
-*Времени ушло 1 час 50 минут.* Код контроллера [здесь!](https://github.com/Husband/Modera-Test-Job/blob/master/DemoBundle/Controller/DefaultController.php).
+*Времени ушло 1 час 50 минут.* Код контроллера [DemoBundle/Controller/DefaultController.php](https://github.com/Husband/Modera-Test-Job/blob/master/DemoBundle/Controller/DefaultController.php).
 
 3. В третьем задании пришлось переделывать формат отдаваемых данных из второго задания чтобы не разбиратся с настройкой компонента tree.
-*На задание потратил 1 час 25 минут.* [Код](https://github.com/Husband/Modera-Test-Job/blob/master/DemoBundle/Resources/views/Default/index.html.twig).
+*На задание потратил 1 час 25 минут.* [DemoBundle/Controller/DefaultController.php](https://github.com/Husband/Modera-Test-Job/blob/master/DemoBundle/Resources/views/Default/index.html.twig).
 
 Symfony2 и ExtJs видел первый раз.
 
